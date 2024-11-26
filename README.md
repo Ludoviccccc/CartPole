@@ -1,4 +1,4 @@
-# Double Q-Learning Implementation for CarPole environnement 
+# Double Q-Learning Implementation for CartPole environnement 
 
 I implement double Q learning with a replay buffer.
 
