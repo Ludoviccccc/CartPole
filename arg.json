@@ -1,0 +1,16 @@
+{
+	"train": true,
+	"test_mode":true,
+	"start":1000,
+	"epsilon":0.3,
+	"gamma" : 0.99,
+	"lr" : 1e-4,
+	"memory_size": 1000,
+	"n_episodes" : 2000,
+	"sub_batch_size": 64,
+	"K" :3,
+	"N":100,
+	"loadpath" : "load",
+	"loadopt" : "opt",
+	"pathImage": "image"
+}
