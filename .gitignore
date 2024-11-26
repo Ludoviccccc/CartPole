@@ -2,5 +2,6 @@
 *.pt
 test2.py
 *.swp
+*.swo
 .gitignore
 
