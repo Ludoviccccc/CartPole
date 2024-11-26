@@ -8,6 +8,6 @@ I implement double Q learning with a replay buffer.
 * File utils.py contains the implementation of the class for the state action value fonction Q, the policy, which is only the action which maximizes the Q function, and updateclass for updating the Q function
 For each episode we visualise the discounted sum of the rewards
 
-![Alt text](image/retour2.png)
+![Alt text](retour2.png)
 
 
