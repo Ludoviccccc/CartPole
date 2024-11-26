@@ -1,4 +1,6 @@
 *.ipynb
 *.pt
 test2.py
+*.swp
+.gitignore
 
